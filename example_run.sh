@@ -1,0 +1,1 @@
+python3 make_clusters.py --n_clusters 1 --draw_plot 1 --input_json_file geo.json --output_json_file ans_geo.json
